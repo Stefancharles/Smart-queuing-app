@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartQueuing</string>
+    <string name="slogan">新大陆云平台登陆</string>
+    <string name="hint">Fight for the people you care. ——Stefan</string>
+    <string name="login">登录</string>
+    <string name="password">密码</string>
+    <string name="hint_1">请输入账号</string>
+    <string name="name">账户</string>
+    <string name="show">信息展示界面</string>
+</resources>
